@@ -10,13 +10,13 @@ body{
 
 .bg-image{
     width: 100%;
-    border-radius: 7px;
+    border-radius: 14px;
 
 }
 
 .content{
     position: absolute;
-    bottom: 40px;
+    bottom: 55px;
     color: white;
     text-align: center;
 }
